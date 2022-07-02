@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace  std;
+int main()
+{
+    int num1 = 20;
+    int num2 = 5;
+    int total = num1+num2;
+    cout<<" total = "<<num1+num2<<endl;
+    return 0;
+}
+
+//https://github.com/praveenkumar9767/cpp-add-programm/commits?author=praveenkumar9767//
